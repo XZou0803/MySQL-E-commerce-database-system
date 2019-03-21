@@ -9,5 +9,7 @@ Including:
 4. ERD 
 5. Use Cases for business metrics
 6. Procedures and Triggers
-7. Visulization by Tableau
+7. Visualization by Tableau
+
+
 
